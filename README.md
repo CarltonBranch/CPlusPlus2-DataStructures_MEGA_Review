@@ -1,6 +1,7 @@
 # CPlusPlus2-DataStructuresMEGAReview
 
 Functions:
+
 1. String Functions 
 -check unique character - return bool
 -delete unique character
