@@ -9,9 +9,9 @@ Functions:
 - reverse a C-style string
 
 2. Array Functions
-- rotate 2d array 90 degrees
-- search 2d array
-- fill 2d array
+-rotate 2d array 90 degrees
+-search 2d array
+-fill 2d array
 
 Template Implementations:
 3. Binary Trees - BinTree.hpp
