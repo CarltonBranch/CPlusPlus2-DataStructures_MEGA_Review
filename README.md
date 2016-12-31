@@ -43,10 +43,10 @@ Template Implementations:
 6. Stack Class - Stack.hpp
 -constructor and destructor
 -getSize()
--peek() - Constant running ime with respect to N elements
--push() - Constant running ime with respect to N elements
--pop() - Constant running ime with respect to N elements
--min()  - Constant running ime with respect to N elements
+-peek()  
+-push()  
+-pop()  
+-min() 
 
 7. Queue Class - Queue.hpp
 -constructor and destructor
@@ -64,3 +64,6 @@ Unit Testing:
 -Linked_List_Test.cpp
 -StackQueueUnitTest.cpp
 -StringClassTest.cpp
+
+
+Carlton B - December 2016 - approximate time to complete: 1 week
