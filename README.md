@@ -25,32 +25,32 @@ Template Implementations:
 -delete Note()
 
 4. Graphs
-- Constructor creates both Adjacency List and Adjacency Matrix
-- insert()
-- matrix_insert()
+-Constructor creates both Adjacency List and Adjacency Matrix
+-insert()
+-matrix_insert()
 
 5. Linked List Class
-- getSize()
-- peek()
-- pushToFront()
-- appendToBack()
-- getFront(), getBack()
-- deleteNode()
-- pop()
-- delete_duplicates()
+-getSize()
+-peek()
+-pushToFront()
+-appendToBack()
+-getFront(), getBack()
+-deleteNode()
+-pop()
+-delete_duplicates()
 
 6. Stack Class - Stack.hpp
-- constructor and destructor
-- getSize()
-- peek() - Constant running ime with respect to N elements
-- push() - Constant running ime with respect to N elements
-- pop() - Constant running ime with respect to N elements
-- min()  - Constant running ime with respect to N elements
+-constructor and destructor
+-getSize()
+-peek() - Constant running ime with respect to N elements
+-push() - Constant running ime with respect to N elements
+-pop() - Constant running ime with respect to N elements
+-min()  - Constant running ime with respect to N elements
 
 7. Queue Class - Queue.hpp
-- constructor and destructor
-- push()
-- pop()
-- print()
-- isEmpty()
-- sort() - This function sorts a queue in ascending order in-place
+-constructor and destructor
+-push()
+-pop()
+-print()
+-isEmpty()
+-sort() - This function sorts a queue in ascending order in-place
